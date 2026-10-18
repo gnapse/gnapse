@@ -17,4 +17,6 @@ I write occasionally about software, product, AI, and the changing craft of buil
 
 ## Elsewhere
 
-[Website](https://ernesto.dev/) · [Blog](https://ernesto.dev/posts/) · [X / Twitter](https://x.com/gnapse) · [RSS](https://ernesto.dev/feed.xml)
+[Website](https://ernesto.dev/) · [Blog](https://ernesto.dev/posts/) · [X / Twitter](https://x.com/gnapse) · [/dev/null](https://dev-null.sh/@gnapse) · [RSS](https://ernesto.dev/feed.xml)
+
+[![/dev/null activity](https://dev-null.sh/@gnapse/graph.svg?theme=auto)](https://dev-null.sh/@gnapse)
